@@ -15,7 +15,19 @@
 
 ## Installation :
 
-* 
+* `apt update`
+
+* `apt install git python python2 -y`
+
+* `git clone https://github.com/Shivuxd/afgcrack.git
+
+* `cd afgcrack`
+
+#### > Run : `python2 crack.py`
+
+#### USERNAME : `cra3k`
+
+#### PASSWORD : `htrtech`
 
 
 ## Single Command :
