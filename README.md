@@ -32,7 +32,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git python python2 -y ; git clone https://github.com/htr-tech/afgcrack.git ; cd afgcrack ; python2 crack.py
+apt update ; apt install git python python2 -y ; git clone https://github.com/Shivuxd/afgcrack.git ; cd afgcrack ; python2 crack.py
 ```
 #### The Cracked ID's are saved in 'hacked' directory
 
