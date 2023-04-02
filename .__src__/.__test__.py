@@ -1,3 +1,3 @@
 import time
 a = time.ctime()
-print a
+print b
