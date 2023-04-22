@@ -19,7 +19,7 @@
 
 * `apt install git python python2 -y`
 
-* `git clone https://github.com/Shivuxd/afgcrack.git
+* `git clone https://github.com/Shivamxwd/afgcrack.git
 
 * `cd afgcrack`
 
