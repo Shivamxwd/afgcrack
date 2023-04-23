@@ -49,9 +49,5 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/Sh
 #### [+] All Afghanistani Operators are Available !
 #### [+] Easy for Beginners !
 
-## Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
-[![Gitlab](https://img.shields.io/badge/Gitlab-HTR--TECH-green?style=for-the-badge&logo=gitlab)](https://gitlab.com/htr-tech)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahmid.rayat)
-[![Facebook](https://www.facebook.com/NickXDdbau
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/tahmid.rayat.official)
+# LOVE FROM SHIVAM BEB💗🌺
+NAM TOH SUNA 🤝HOGA
